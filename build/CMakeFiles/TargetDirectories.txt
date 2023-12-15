@@ -1,0 +1,3 @@
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build/CMakeFiles/nsc.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build/CMakeFiles/edit_cache.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build/CMakeFiles/rebuild_cache.dir
