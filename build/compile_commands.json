@@ -1,8 +1,8 @@
 [
 {
   "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build",
-  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/nsc.dir/Converter.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp",
-  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp",
-  "output": "CMakeFiles/nsc.dir/Converter.cpp.o"
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/nsc.dir/Convertor.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp",
+  "output": "CMakeFiles/nsc.dir/Convertor.cpp.o"
 }
 ]

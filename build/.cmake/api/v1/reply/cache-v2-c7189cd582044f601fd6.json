@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/clang++"
 		},
 		{
@@ -251,10 +251,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/clang"
 		},
 		{
@@ -835,7 +835,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Number_System_Converter"
+			"value" : "Number_System_Convertor"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1134,7 +1134,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Number_System_Converter_BINARY_DIR",
+			"name" : "Number_System_Convertor_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1146,7 +1146,7 @@
 			"value" : "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build"
 		},
 		{
-			"name" : "Number_System_Converter_IS_TOP_LEVEL",
+			"name" : "Number_System_Convertor_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1158,7 +1158,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Number_System_Converter_SOURCE_DIR",
+			"name" : "Number_System_Convertor_SOURCE_DIR",
 			"properties" : 
 			[
 				{

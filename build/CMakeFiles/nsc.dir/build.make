@@ -69,28 +69,28 @@ include CMakeFiles/nsc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/nsc.dir/flags.make
 
-CMakeFiles/nsc.dir/Converter.cpp.o: CMakeFiles/nsc.dir/flags.make
-CMakeFiles/nsc.dir/Converter.cpp.o: /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp
-CMakeFiles/nsc.dir/Converter.cpp.o: CMakeFiles/nsc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/nsc.dir/Converter.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nsc.dir/Converter.cpp.o -MF CMakeFiles/nsc.dir/Converter.cpp.o.d -o CMakeFiles/nsc.dir/Converter.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp
+CMakeFiles/nsc.dir/Convertor.cpp.o: CMakeFiles/nsc.dir/flags.make
+CMakeFiles/nsc.dir/Convertor.cpp.o: /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp
+CMakeFiles/nsc.dir/Convertor.cpp.o: CMakeFiles/nsc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/nsc.dir/Convertor.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nsc.dir/Convertor.cpp.o -MF CMakeFiles/nsc.dir/Convertor.cpp.o.d -o CMakeFiles/nsc.dir/Convertor.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp
 
-CMakeFiles/nsc.dir/Converter.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/nsc.dir/Converter.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp > CMakeFiles/nsc.dir/Converter.cpp.i
+CMakeFiles/nsc.dir/Convertor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/nsc.dir/Convertor.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp > CMakeFiles/nsc.dir/Convertor.cpp.i
 
-CMakeFiles/nsc.dir/Converter.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/nsc.dir/Converter.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp -o CMakeFiles/nsc.dir/Converter.cpp.s
+CMakeFiles/nsc.dir/Convertor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/nsc.dir/Convertor.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp -o CMakeFiles/nsc.dir/Convertor.cpp.s
 
 # Object files for target nsc
 nsc_OBJECTS = \
-"CMakeFiles/nsc.dir/Converter.cpp.o"
+"CMakeFiles/nsc.dir/Convertor.cpp.o"
 
 # External object files for target nsc
 nsc_EXTERNAL_OBJECTS =
 
-nsc: CMakeFiles/nsc.dir/Converter.cpp.o
+nsc: CMakeFiles/nsc.dir/Convertor.cpp.o
 nsc: CMakeFiles/nsc.dir/build.make
 nsc: CMakeFiles/nsc.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable nsc"

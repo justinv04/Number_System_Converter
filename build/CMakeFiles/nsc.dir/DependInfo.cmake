@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Converter.cpp" "CMakeFiles/nsc.dir/Converter.cpp.o" "gcc" "CMakeFiles/nsc.dir/Converter.cpp.o.d"
+  "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Number_System_Converter/Convertor.cpp" "CMakeFiles/nsc.dir/Convertor.cpp.o" "gcc" "CMakeFiles/nsc.dir/Convertor.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

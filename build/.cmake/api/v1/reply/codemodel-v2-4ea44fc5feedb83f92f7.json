@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Number_System_Converter",
+					"name" : "Number_System_Convertor",
 					"targetIndexes" : 
 					[
 						0
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "nsc::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-nsc-Debug-dc11a4ae8c27e616ae39.json",
+					"jsonFile" : "target-nsc-Debug-9c50f41520b46038041a.json",
 					"name" : "nsc",
 					"projectIndex" : 0
 				}

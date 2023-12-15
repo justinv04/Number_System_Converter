@@ -129,29 +129,29 @@ nsc/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/build
 .PHONY : nsc/fast
 
-Converter.o: Converter.cpp.o
-.PHONY : Converter.o
+Convertor.o: Convertor.cpp.o
+.PHONY : Convertor.o
 
 # target to build an object file
-Converter.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/Converter.cpp.o
-.PHONY : Converter.cpp.o
+Convertor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/Convertor.cpp.o
+.PHONY : Convertor.cpp.o
 
-Converter.i: Converter.cpp.i
-.PHONY : Converter.i
+Convertor.i: Convertor.cpp.i
+.PHONY : Convertor.i
 
 # target to preprocess a source file
-Converter.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/Converter.cpp.i
-.PHONY : Converter.cpp.i
+Convertor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/Convertor.cpp.i
+.PHONY : Convertor.cpp.i
 
-Converter.s: Converter.cpp.s
-.PHONY : Converter.s
+Convertor.s: Convertor.cpp.s
+.PHONY : Convertor.s
 
 # target to generate assembly for a file
-Converter.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/Converter.cpp.s
-.PHONY : Converter.cpp.s
+Convertor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nsc.dir/build.make CMakeFiles/nsc.dir/Convertor.cpp.s
+.PHONY : Convertor.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... nsc"
-	@echo "... Converter.o"
-	@echo "... Converter.i"
-	@echo "... Converter.s"
+	@echo "... Convertor.o"
+	@echo "... Convertor.i"
+	@echo "... Convertor.s"
 .PHONY : help
 
 

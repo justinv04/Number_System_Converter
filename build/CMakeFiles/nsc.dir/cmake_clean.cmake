@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/nsc.dir/Converter.cpp.o"
-  "CMakeFiles/nsc.dir/Converter.cpp.o.d"
+  "CMakeFiles/nsc.dir/Convertor.cpp.o"
+  "CMakeFiles/nsc.dir/Convertor.cpp.o.d"
   "nsc"
   "nsc.pdb"
 )
