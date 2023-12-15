@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <cmath>
 
-using namespace std;
+using std::cout, std::endl, std::setw, std::setfill;
 
 char intToChar(int val)
 {
@@ -52,6 +52,16 @@ int charToInt(char &val, int &inBase)
     return output;
 }
 
+void printOutput(int &inBase, int &outBase, char* inVal, char* outVal)
+{
+    cout << setw(80) << setfill('-') << "\n";
+    cout << "Input Value: " << inVal;
+    cout << ", Input Base: " << inBase;
+    cout << ", Output Base: " << outBase << "\n";
+    cout << "Output Value: " << outVal << "\n";
+    cout << setw(80) << setfill('-') << "\n";
+}
+
 char* convert(char* &inVal, int &inBase, int &outBase)
 {
     size_t sum = 0, newSize = 0, size = 0, digitMultiple = 1;
@@ -87,16 +97,6 @@ char* convert(char* &inVal, int &inBase, int &outBase)
     }
     output[newSize] = '\0';
     return output;
-}
-
-void printOutput(int &inBase, int &outBase, char* inVal, char* outVal)
-{
-    cout << setw(80) << setfill('-') << "\n";
-    cout << "Input Value: " << inVal;
-    cout << ", Input Base: " << inBase;
-    cout << ", Output Base: " << outBase << "\n";
-    cout << "Output Value: " << outVal << "\n";
-    cout << setw(80) << setfill('-') << "\n";
 }
 
 int main (int argc, char** argv)
